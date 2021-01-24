@@ -12,6 +12,10 @@ Callan Institute: https://www.callan.com/periodic-table/
 ## Asset class performance since 2000
 ![Asset Classes](./images/callan_chart.png)
 
+## Alternate view of class performance since 2000
+Same information as above, using lines instead of rectangles
+![Asset Classes with lines](./images/annual_returns.png)
+
 
 ## Hypothetical growth of initial $10K at end of 2000
 ![Hypothetical Growth](./images/callan_hyp_growth.png)
