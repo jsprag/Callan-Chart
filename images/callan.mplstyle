@@ -1,0 +1,14 @@
+axes.titlesize : 18
+axes.labelsize : 14
+axes.labelpad : 3
+xtick.labelsize : 8
+ytick.labelsize : 8
+legend.fontsize : 8
+legend.framealpha : 1.0
+legend.shadow : True
+figure.figsize : 10, 6
+figure.dpi : 300
+lines.markersize : 2.5
+grid.color : 'silver'
+grid.linewidth : 0.8
+grid.alpha : 0.8
