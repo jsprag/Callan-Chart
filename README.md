@@ -20,9 +20,14 @@ Same information as above, using lines instead of rectangles
 ## Hypothetical growth of initial $10K at end of 2000
 ![Hypothetical Growth](./images/callan_hyp_growth.png)
 
+## Hypothetical growth comparison with Boglehead three-fund portfolios
+![Hypothetical Growth Bogle](./images/callan_hyp_growth_bogle.png)
 
 ## Compound annual growth rate (CAGR) 2001-2020
 ![CAGR](./images/callan_cagr.png)
+
+## Compound annual growth rate (CAGR) comparison with Boglehead three-fund portfolios
+![CAGR Bogle](./images/callan_cagr_bogle.png)
 
 
 ## Display variations on asset class performance
